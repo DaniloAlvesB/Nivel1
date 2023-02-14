@@ -1,0 +1,19 @@
+.btn-desafio{
+    margin-bottom: 2vh;
+    min-width: 80vw;
+    max-width: 80vw;
+    min-height: 10vh;
+    max-height: 10vh;
+    border-radius: 5px;
+    border: 0px;
+    background-image: linear-gradient(to bottom, rgb(194, 188, 239), rgb(93, 97, 137));
+}
+
+.pointer{
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.pointer:hover{
+    transform: scale(1.02);
+}
