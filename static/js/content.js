@@ -31,7 +31,6 @@ let content = [
             <div class="d-flex flex-row" style="">
                 <div class="col-1 col-md-4"></div>
                 <div class="col-10 col-md-4 d-flex flex-column">
-                    <h4>Digite seu nome</h4>
                     <div class="d-flex flex-row">
                         <input id="red" class="input-group my-2 mx-2 border border-danger rounded-2" type="number" max-lenght="3">
                         <input id="green" class="input-group my-2 mx-2 border border-success rounded-2" type="number" max-lenght="3">
