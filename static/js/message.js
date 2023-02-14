@@ -1,11 +1,11 @@
 let messages = [
     //["Remetente", "Content", "Horário", "Dia"]
-    ["??????", `Seja bem-vindo ${localStorage.getItem('inf_name')}! Espero que você não me decepcione, eu confio este segredo á você...`, "21:03h", "Terça-Feira - 14/02/2023"],
+    ["??????", `Seja bem-vindo ${localStorage.getItem('name')}! Espero que você não me decepcione, eu confio este segredo á você...`, "21:03h", "Terça-Feira - 14/02/2023"],
     ["??????", `Seu primeiro desafio já está disponível. Este será apenas um teste. Se o mundo está cinza, que tal colorir?`, "21:04h", ""],
 ]
 
 let digno = [
-    "??????", `Parabéns ${localStorage.getItem('inf_name')}, então você é digno de continuar. Espere por mais atualizações...`, "??:??h", "??????? - ??/??/??"
+    "??????", `Parabéns ${localStorage.getItem('name')}, então você é digno de continuar. Espere por mais atualizações...`, "??:??h", "??????? - ??/??/??"
 ]
 
 
