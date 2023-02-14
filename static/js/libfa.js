@@ -9,8 +9,8 @@ function quest1(){
                 Parabéns, você conseguiu!
             </b>
         `
-        
-        localStorage.setItem("new_des", "true")
+
+        localStorage.setItem("new_mes", "true")
         localStorage.setItem("title", "Digno")
     }else{
         result.innerHTML = `
